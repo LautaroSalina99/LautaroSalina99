@@ -21,7 +21,8 @@ Me mantengo en constante aprendizaje, investigando sobre Inteligencia Artificial
 ---
 
 ## 📽️ Video de Presentación
-[![Video de Presentación](https://youtube.com/shorts/STzxTlJPRmU?feature=share)
+[![Video de Presentación](https://img.youtube.com/vi/STzxTlJPRmU/0.jpg)](https://youtube.com/shorts/STzxTlJPRmU)
+> *[Click aquí para ver mi video de presentación](https://youtube.com/shorts/STzxTlJPRmU)*
 
 ---
 
