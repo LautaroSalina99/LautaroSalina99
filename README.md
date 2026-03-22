@@ -21,8 +21,7 @@ Me mantengo en constante aprendizaje, investigando sobre Inteligencia Artificial
 ---
 
 ## 📽️ Video de Presentación
-[![Video de Presentación](https://img.shields.io/badge/Ver_Video_de_Presentación-red?style=for-the-badge&logo=youtube&logoColor=white)](TU_LINK_A_YOUTUBE_O_DRIVE)
-> *Duración: 45 segundos. En este video resumo mi perfil y objetivos.*
+[![Video de Presentación](https://youtube.com/shorts/STzxTlJPRmU?feature=share)
 
 ---
 
