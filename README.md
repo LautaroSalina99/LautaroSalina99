@@ -1,16 +1,16 @@
 # ¡Hola! Soy Lautaro 👋
 ## 👤 Sobre mí
 
-¡Hola! Soy Lautaro. Actualmente curso el 5to año de Ingeniería en Sistemas de Información en la Universidad de la Cuenca del Plata. Me apasiona resolver problemas complejos diseñando arquitecturas de software robustas y eficientes. 
+¡Hola! Soy Lautaro, estudiante avanzado de Ingeniería en Sistemas de Información en la Universidad de la Cuenca del Plata. Me dedico a transformar requerimientos complejos en soluciones tecnológicas reales, uniendo el desarrollo web, la arquitectura de bases de datos y la automatización de procesos con n8n. 
 
-Mi enfoque principal está en el desarrollo web y la gestión de bases de datos, pero siempre busco ir un paso más allá optimizando flujos de trabajo mediante la automatización de procesos con herramientas como n8n. Además, dedico tiempo a explorar el campo de la Inteligencia Artificial.
+Me mantengo en constante aprendizaje, investigando sobre Inteligencia Artificial. Como dato de color: así como disfruto combinando tecnologías para crear el ecosistema de software perfecto, también tengo una gran pasión por la cocina y experimentar en el mundo gastronómico.
 
 ---
 
 ## 👤 Datos Personales
 - **Nombre:** Lautaro Agustín Salina
 - **Ubicación:** Corrientes/Argentina
-- **Intereses:** Desarrollo Web, Test Automatizado, Automatización de procesos.
+- **Intereses:** Desarrollo Web, Test Automatizado, Automatización de procesos con n8n.
 - **Fecha de creación del portafolio:** 22 de marzo de 2026
 
 ## 📧 Contacto
