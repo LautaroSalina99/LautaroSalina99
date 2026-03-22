@@ -41,7 +41,7 @@ Me mantengo en constante aprendizaje, investigando sobre Inteligencia Artificial
 
 ## 📄 Curriculum Vitae
 Podés ver o descargar mi CV detallado haciendo clic en el siguiente enlace:
-[👉 Descargar CV en PDF](TU_LINK_A_GOOGLE_DRIVE_O_ARCHIVO)
+[👉 Descargar CV en PDF](file:///C:/Users/lauta/Downloads/CV%20Lautaro%20Agustin%20Salina.pdf)
 
 ---
 
