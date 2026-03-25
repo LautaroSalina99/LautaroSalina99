@@ -1,7 +1,7 @@
 # ¡Hola! Soy Lautaro 👋
 ## 👤 Sobre mí
 
-¡Hola! Soy Lautaro, estudiante avanzado de Ingeniería en Sistemas de Información en la Universidad de la Cuenca del Plata. Me dedico a transformar requerimientos complejos en soluciones tecnológicas reales, uniendo el desarrollo web, la arquitectura de bases de datos y la automatización de procesos con n8n. 
+¡Hola! Soy Lautaro, estudiante avanzado de Ingeniería en Sistemas de Información en la Universidad de la Cuenca del Plata. Me dedico a transformar requerimientos complejos en soluciones tecnológicas reales con el desarrollo web.
 
 Me mantengo en constante aprendizaje, investigando sobre Inteligencia Artificial. Como dato de color: así como disfruto combinando tecnologías para crear el ecosistema de software perfecto, también tengo una gran pasión por la cocina y experimentar en el mundo gastronómico.
 
